@@ -15,7 +15,7 @@
 
 <br>
 
-## :rocket: 🔬 Tecnologias
+## 🔬 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -25,11 +25,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 
-## :projeto: 💻 Projeto
+## 💻 Projeto
 
 Uma aplicação com objetivo de adicionar idéias de atividades que você deseja fazer durante esse período, de uma maneira simples.
 
-## :execute: ℹ️ Como executar
+## ℹ️ Como executar
 
 ### O que é necessário
 ### Para executar esse projeto, você precisa de [Git](https://git-scm.com), [Node.js](https://nodejs.org/) v12.13.1 ou superior, [Npm](https://www.npmjs.com/), [SQLite3](https://sqlitebrowser.org/).
@@ -50,7 +50,7 @@ npm install
 
 ## :contact: 📬 Entre em contato comigo em:
 
-[ LinkedIn ](https://br.linkedin.com/in/fiamadecapua)
+[ LinkedIn ](https://br.linkedin.com/in/fiamadecapua)<br>
 [ Site Pessoal ](https://fihcapua.github.io/portfolio/)
 
 Feito com :coffee: e :relaxed: - Fiama de Cápua.
