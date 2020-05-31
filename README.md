@@ -48,7 +48,7 @@ npm install
 
 ```
 
-## :contact: 📬 Entre em contato comigo em:
+## 📬 Entre em contato comigo em:
 
 [ LinkedIn ](https://br.linkedin.com/in/fiamadecapua)<br>
 [ Site Pessoal ](https://fihcapua.github.io/portfolio/)
